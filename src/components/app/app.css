@@ -1,12 +1,8 @@
-.app-header {
-    align-items: flex-end;
-  }
-  
-  .app-header h1 {
-    flex-grow: 1;
-  }
-  
-  .app-header h2 {
-    font-size: 1.2rem;
-    color: grey;
-  }
+.todo-app {
+  margin: 2rem auto 0 auto;
+  max-width: 400px;
+}
+
+.top-panel {
+  margin: 1rem 0;
+}
